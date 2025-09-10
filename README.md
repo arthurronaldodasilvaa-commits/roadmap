@@ -26,8 +26,8 @@
 | Etapa | Status | Repositório |
 |:------|:------:|:------------|
 | **Java Básico** — Curso em Vídeo | ✅ Concluído | [🔗 java-basico-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-basico-cursoemvideo) |
-| **Git & GitHub** — Curso em Vídeo | 🟡 Em andamento | *em breve* |
-| **POO em Java** — Curso em Vídeo | 🔜 Planejado | *em breve* |
+| **Git & GitHub** — Curso em Vídeo | ✅ Concluído | *não contém repositório*  |
+| **POO em Java** — Curso em Vídeo | 🟡 Em andamento | *em breve* |
 | **APIs com Spring Boot** — Projetos práticos | 🔜 Planejado | *em breve* |
 | **MySQL** — Curso em Vídeo | 🔜 Planejado | *em breve* |
 | **Projetos Reais (solo)** | 🔜 Planejado | *em breve* |
@@ -53,23 +53,23 @@
 
 ---
 
-### 📙 2. Git & GitHub — 🟡 Em andamento
+### 📙 2. Git & GitHub — ✅ Concluído
 **Fonte:** Curso em Vídeo (Gustavo Guanabara)  
-**Repositório:** *(a criar)*
+**Repositório:** *(não contém repositório)*
 
 #### 🎯 Metas
-- 📝 Instalação e configuração (`init`, `status`, `add`, `commit`)
-- 🌿 Branches, merge, pull request
-- 🐛 Issues e gitignore
-- 🔄 Trabalhar com repositórios remotos
+- ✅ Instalação e configuração (`init`, `status`, `add`, `commit`)
+- ✅ Branches, merge, pull request
+- ✅ Issues e gitignore
+- ✅ Trabalhar com repositórios remotos
 
 #### 📋 Critérios de conclusão
-- 📁 Criar repositório de estudos com comandos exemplificados
-- 🔀 Abrir issue, criar branch e fazer PR para main
+- ✅ Criar repositório de estudos com comandos exemplificados
+- ✅ Abrir issue, criar branch e fazer PR para main
 
 ---
 
-### 📗 3. POO em Java — 🔜 Planejado
+### 📗 3. POO em Java — 🟡 Em andamento
 **Fonte:** Curso em Vídeo (Gustavo Guanabara)  
 **Repositório:** *(a criar)*
 
@@ -153,8 +153,8 @@
 ```text
 /
 ├─ 📁 java-basico-cursoemvideo/            # ✅ Concluído
-├─ 📁 git-e-github-cursoemvideo/           # 🟡 Em andamento  
-├─ 📁 poo-java-cursoemvideo/               # 🔜 Planejado
+├─ 📁 git-e-github-cursoemvideo/           # ✅ Concluído  
+├─ 📁 poo-java-cursoemvideo/               # 🟡 Em andamento
 ├─ 📁 spring-boot-apis/                    # 🔜 Planejado
 ├─ 📁 mysql-cursoemvideo/                  # 🔜 Planejado
 ├─ 📁 projetos-reais/                      # 🔜 Planejado
