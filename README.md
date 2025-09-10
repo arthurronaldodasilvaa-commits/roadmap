@@ -167,31 +167,3 @@
 
 **✨ A jornada de mil milhas começa com um único passo**  
 *Lao Tzu*
-
-</div>
-
-<style>
-  .markdown-body h2 {
-    border-bottom: 2px solid #6f42c1;
-    padding-bottom: 0.3em;
-  }
-  
-  .markdown-body h3 {
-    color: #6f42c1;
-    margin-top: 1.5em;
-  }
-  
-  .markdown-body ul {
-    list-style-type: none;
-    padding-left: 1em;
-  }
-  
-  .markdown-body ul li:before {
-    content: "•";
-    color: #6f42c1;
-    font-weight: bold;
-    display: inline-block;
-    width: 1em;
-    margin-left: -1em;
-  }
-</style>
