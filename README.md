@@ -27,7 +27,7 @@
 |:------|:------:|:------------|
 | **Java Básico** — Curso em Vídeo | ✅ Concluído | [🔗 java-basico-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-basico-cursoemvideo) |
 | **Git & GitHub** — Curso em Vídeo | ✅ Concluído | *não contém repositório*  |
-| **POO em Java** — Curso em Vídeo | 🟡 Em andamento | *em breve* |
+| **POO em Java** — Curso em Vídeo | 🟡 Em andamento | [🔗 java-poo-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-poo-cursoemvideo) |
 | **APIs com Spring Boot** — Projetos práticos | 🔜 Planejado | *em breve* |
 | **MySQL** — Curso em Vídeo | 🔜 Planejado | *em breve* |
 | **Projetos Reais (solo)** | 🔜 Planejado | *em breve* |
