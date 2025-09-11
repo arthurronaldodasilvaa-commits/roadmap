@@ -1,169 +1,82 @@
-# 🚀 Roadmap de Estudos em Programação
+<h1 align="center">🗺️ Roadmap Pessoal de Estudos</h1>
 
-<div align="center">
-
-![status](https://img.shields.io/badge/status-em%20andamento-yellow)
-![stack](https://img.shields.io/badge/foco-Java%20%7C%20Spring%20Boot%20%7C%20MySQL-blue)
-![profile](https://img.shields.io/badge/github-arthurronaldodasilvaa--commits-black)
-
-> **Registro público da minha evolução rumo ao Full Stack**  
-> Java + Spring Boot no back-end, e base sólida de front-end para integrar tudo.
-
-</div>
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/stack-Java%20%7C%20Spring%20Boot%20%7C%20MySQL-0ea5e9?style=flat-square" />
+  <img alt="Modo" src="https://img.shields.io/badge/formato-Checklist%20Markdown-8b5cf6?style=flat-square" />
+</p>
 
 ---
 
-## 📋 Visão Geral
-
-- 🎯 **Meta:** dominar fundamentos de Java, versionamento com Git/GitHub, POO, APIs REST com Spring Boot, banco de dados MySQL e o essencial do front-end.
-- 📚 **Formato:** cursos + projetos práticos públicos no GitHub.
-- 🔍 **Transparência:** cada etapa possui metas, critérios de conclusão e links para os repositórios.
+<table>
+  <tr>
+    <td>
+      <h3>🎯 Objetivo</h3>
+      Evoluir rumo ao Full-Stack: API Java + banco + front básico para integrar tudo.
+      <br/><br/>
+      <a href="https://github.com/arthurronaldodasilvaa-commits" target="_blank">
+        <img alt="Perfil" src="https://img.shields.io/badge/Ver%20Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <h3>📈 Progresso Geral</h3>
+      <img alt="Progresso" src="https://img.shields.io/badge/Conclu%C3%ADdo-2%20de%207-22c55e?style=for-the-badge" />
+      <br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Progresso Global
-
+## ✅ Etapas & Status
 | Etapa | Status | Repositório |
-|:------|:------:|:------------|
-| **Java Básico** — Curso em Vídeo | ✅ Concluído | [🔗 java-basico-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-basico-cursoemvideo) |
-| **Git & GitHub** — Curso em Vídeo | ✅ Concluído | *não contém repositório*  |
-| **POO em Java** — Curso em Vídeo | 🟡 Em andamento | [🔗 java-poo-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-poo-cursoemvideo) |
-| **APIs com Spring Boot** — Projetos práticos | 🔜 Planejado | *em breve* |
-| **MySQL** — Curso em Vídeo | 🔜 Planejado | *em breve* |
-| **Projetos Reais (solo)** | 🔜 Planejado | *em breve* |
-| **Front-end (base)** | 🔜 Planejado | *em breve* |
+|:--|:--:|:--|
+| **Java Básico** — Curso em Vídeo | ✅ | <a href="https://github.com/arthurronaldodasilvaa-commits/java-basico-cursoemvideo">java-basico-cursoemvideo</a> |
+| **Git & GitHub** — Curso em Vídeo | ✅ | — |
+| **POO em Java** — Curso em Vídeo | 🟡 | <a href="https://github.com/arthurronaldodasilvaa-commits/java-poo-cursoemvideo">java-poo-cursoemvideo</a> |
+| **APIs com Spring Boot** | 🔜 | — |
+| **MySQL** — Curso em Vídeo | 🔜 | — |
+| **Projetos Reais (solo)** | 🔜 | — |
+| **Front-end (base)** | 🔜 | — |
 
 ---
 
-## 🧭 Etapas Detalhadas
+## 📝 Checklists
+<details>
+  <summary><b>Java Básico — Feitos</b></summary>
+  <ul>
+    <li>[x] Sintaxe, tipos, operadores</li>
+    <li>[x] Controle de fluxo</li>
+    <li>[x] Arrays e funções</li>
+  </ul>
+</details>
 
-### 📘 1. Java Básico — ✅ Concluído
-**Fonte:** Curso em Vídeo (Gustavo Guanabara)  
-**Repositório:** [java-basico-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-basico-cursoemvideo)
+<details open>
+  <summary><b>POO em Java — Em andamento</b></summary>
+  <ul>
+    <li>[x] Classes e Objetos</li>
+    <li>[ ] Encapsulamento</li>
+    <li>[ ] Herança / Polimorfismo</li>
+    <li>[ ] Interfaces</li>
+  </ul>
+</details>
 
-#### 🎯 Metas cumpridas
-- ✅ Sintaxe, tipos, operadores, controle de fluxo
-- ✅ Arrays e funções
-- ✅ Entrada/saída e estruturas de repetição
-- ✅ Boas práticas iniciais
-
-#### 📋 Critérios de conclusão
-- ✅ Exercícios do curso resolvidos e versionados
-- ✅ README com anotações e aprendizados
-
----
-
-### 📙 2. Git & GitHub — ✅ Concluído
-**Fonte:** Curso em Vídeo (Gustavo Guanabara)  
-**Repositório:** *(não contém repositório)*
-
-#### 🎯 Metas
-- ✅ Instalação e configuração (`init`, `status`, `add`, `commit`)
-- ✅ Branches, merge, pull request
-- ✅ Issues e gitignore
-- ✅ Trabalhar com repositórios remotos
-
-#### 📋 Critérios de conclusão
-- ✅ Criar repositório de estudos com comandos exemplificados
-- ✅ Abrir issue, criar branch e fazer PR para main
+<details>
+  <summary><b>APIs com Spring Boot — Planejado</b></summary>
+  <ul>
+    <li>[ ] REST Controller / DTOs</li>
+    <li>[ ] JPA / Spring Data</li>
+    <li>[ ] Validações / Exception Handler</li>
+    <li>[ ] Testes / Postman</li>
+  </ul>
+</details>
 
 ---
 
-### 📗 3. POO em Java — 🟡 Em andamento
-**Fonte:** Curso em Vídeo (Gustavo Guanabara)  
-**Repositório:** [java-poo-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-poo-cursoemvideo)
-
-#### 🎯 Metas
-- 🧩 Classes, objetos, encapsulamento
-- 🔄 Herança, polimorfismo e interfaces
-- 🧱 Composição e agregação
-- ⚡ Overrides
-
-#### 📋 Critérios de conclusão
-- 🏗️ 2 mini-projetos de POO (Biblioteca e Gerenciador de Tarefas)
-- 📊 README com diagrama de classes e decisões de design
+## 🔗 Links Rápidos
+- 📦 Java Básico → <a href="https://github.com/arthurronaldodasilvaa-commits/java-basico-cursoemvideo">repositório</a>  
+- 🧬 POO em Java → <a href="https://github.com/arthurronaldodasilvaa-commits/java-poo-cursoemvideo">repositório</a>
 
 ---
 
-### 📕 4. APIs com Spring Boot — 🔜 Planejado
-**Fonte:** Fernanda Kipper (YouTube) + Projetos práticos  
-**Repositório:** *(a criar)*
-
-#### 🎯 Metas
-- 🌐 APIs REST (CRUD), DTOs, validação
-- ⚠️ Tratamento de exceções e logs
-- 🗄️ JPA/Hibernate e migrations
-- 📚 Documentação com OpenAPI/Swagger
-
-#### 📋 Critérios de conclusão
-- 🔌 2 APIs completas com testes básicos
-- 🚀 Deploy simples e documentação no README
-
----
-
-### 📒 5. MySQL — 🔜 Planejado
-**Fonte:** Curso em Vídeo (Gustavo Guanabara)  
-**Repositório:** *(a criar)*
-
-#### 🎯 Metas
-- 🗃️ Modelagem e normalização
-- 🔑 Chaves, joins e funções agregadas
-- 📊 Índices e views
-- 🔄 Integração MySQL ↔ Spring Boot
-
-#### 📋 Critérios de conclusão
-- 📝 Script SQL de criação de esquema + seeds
-- ⚡ API Spring consumindo banco com consultas
-
----
-
-### 🚀 6. Projetos Reais (Solo) — 🔜 Após fundamentos
-**Repositório:** *(a criar)*
-
-#### 💡 Ideias de projetos
-- 🛍️ **Catálogo de Produtos + Carrinho** (API REST)
-- ✅ **Gerenciador de Tarefas** com Autenticação
-- 📞 **Agenda de Contatos** com Busca e Paginação
-- ✍️ **API de Blog** (posts, categorias, comentários)
-
-#### 📋 Critérios de conclusão
-- 📖 README completo com screenshots e endpoints
-- 🔄 Commits frequentes e mensagens descritivas
-
----
-
-### 🎨 7. Front-end (Base) — 🔜 Essencial para Full Stack
-**Stack:** HTML, CSS, JavaScript + React (futuramente)  
-**Repositório:** *(a criar)*
-
-#### 🎯 Metas
-- 🏗️ Estrutura semântica e responsividade
-- ⚡ JS para consumo de APIs (fetch)
-- 🎭 Manipulação de DOM e states simples
-- 🔗 Integração com APIs Spring Boot
-
-#### 📋 Critérios de conclusão
-- 🌐 SPA simples consumindo API própria
-- 🚀 Publicação no GitHub Pages/Vercel
-
----
-
-## 🗂️ Organização dos Repositórios
-
-```text
-/
-├─ 📁 java-basico-cursoemvideo/            # ✅ Concluído
-├─ 📁 git-e-github-cursoemvideo/           # ✅ Concluído  
-├─ 📁 poo-java-cursoemvideo/               # 🟡 Em andamento
-├─ 📁 spring-boot-apis/                    # 🔜 Planejado
-├─ 📁 mysql-cursoemvideo/                  # 🔜 Planejado
-├─ 📁 projetos-reais/                      # 🔜 Planejado
-└─ 📁 frontend-basico/                     # 🔜 Planejado
-```
-
----
-
-<div align="center">
-
-**✨ A jornada de mil milhas começa com um único passo**  
-*Lao Tzu*
+## 📜 Licença
+MIT
