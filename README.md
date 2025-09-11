@@ -71,7 +71,7 @@
 
 ### 📗 3. POO em Java — 🟡 Em andamento
 **Fonte:** Curso em Vídeo (Gustavo Guanabara)  
-**Repositório:** *(a criar)*
+**Repositório:** [java-poo-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-poo-cursoemvideo)
 
 #### 🎯 Metas
 - 🧩 Classes, objetos, encapsulamento
